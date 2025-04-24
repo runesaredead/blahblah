@@ -1,0 +1,11 @@
+   {
+     "name": "fb-data-compliance-endpoints",
+     "version": "1.0.0",
+     "description": "Facebook data compliance endpoints",
+     "scripts": {
+       "start": "serve -s ./"
+     },
+     "dependencies": {
+       "serve": "^14.0.0"
+     }
+   }
