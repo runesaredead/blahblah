@@ -1,0 +1,15 @@
+{
+  "name": "fb-data-compliance-endpoints",
+  "version": "1.0.0",
+  "description": "Facebook data compliance endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+} 
